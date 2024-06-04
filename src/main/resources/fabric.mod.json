@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "travelsystemrevamp",
+	"version": "${version}",
+	"accessWidener": "travelsystemrevamp.accesswidener",
+	"name": "Travel System Revamp",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"TabletMC"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+		"modmenu": [ "com.tabletmc.travelsystemrevamp.config.ModMenuIntegration" ],
+		"client": [
+			"com.tabletmc.travelsystemrevamp.TravelSystemRevampClient"
+		],
+		"main": [
+			"com.tabletmc.travelsystemrevamp.TravelSystemRevamp"
+		],
+		"fabric-datagen": [
+			"com.tabletmc.travelsystemrevamp.TravelSystemRevampDataGenerator"
+		]
+	},
+	"mixins": [
+		"travelsystemrevamp.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": ">=1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
