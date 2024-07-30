@@ -1,16 +1,16 @@
 package com.tabletmc.travelsystemrevamp.utils;
 
-import com.tabletmc.travelsystemrevamp.config.ModConfig;
+import com.tabletmc.travelsystemrevamp.config.TSRModConfig;
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.entity.Entity;
 
 public class RenderUtils {
     public static boolean isJeb(Entity entity) {
-        return ModConfig.getInstance().jeb_Horses && entity.hasCustomName() && "jeb_".equals(entity.getName().getString());
+        return TSRModConfig.getInstance().jeb_Horses && entity.hasCustomName() && "jeb_".equals(entity.getName().getString());
     }
 
     public static int getAlpha(Entity horse) {
-        ModConfig.FadeConfig pitchFadeConfig = ModConfig.getInstance().pitchFade;
+        TSRModConfig.FadeConfig pitchFadeConfig = TSRModConfig.getInstance().pitchFade;
         if (!pitchFadeConfig.enabled) return 255;
         MinecraftClient client = MinecraftClient.getInstance();
         if (client.player == null || !client.options.getPerspective().isFirstPerson() || !horse.hasPassenger(client.player))

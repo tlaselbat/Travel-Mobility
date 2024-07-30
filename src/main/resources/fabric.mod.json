@@ -17,13 +17,10 @@
 	"entrypoints": {
 		"modmenu": [ "com.tabletmc.travelsystemrevamp.config.ModMenuIntegration" ],
 		"client": [
-			"com.tabletmc.travelsystemrevamp.TravelSystemRevampClient"
+			"com.tabletmc.travelsystemrevamp.ClientModInitializer"
 		],
 		"main": [
-			"com.tabletmc.travelsystemrevamp.TravelSystemRevamp"
-		],
-		"fabric-datagen": [
-			"com.tabletmc.travelsystemrevamp.TravelSystemRevampDataGenerator"
+			"com.tabletmc.travelsystemrevamp.ModInitializer"
 		]
 	},
 	"mixins": [

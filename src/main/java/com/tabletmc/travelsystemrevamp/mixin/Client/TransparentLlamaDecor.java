@@ -1,4 +1,4 @@
-package com.tabletmc.travelsystemrevamp.mixin.Client;
+package com.tabletmc.travelsystemrevamp.mixin.client;
 
 import com.llamalad7.mixinextras.injector.wrapoperation.Operation;
 import com.llamalad7.mixinextras.injector.wrapoperation.WrapOperation;

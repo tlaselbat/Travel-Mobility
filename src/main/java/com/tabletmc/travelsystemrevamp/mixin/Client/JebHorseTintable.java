@@ -1,4 +1,4 @@
-package com.tabletmc.travelsystemrevamp.mixin.Client;
+package com.tabletmc.travelsystemrevamp.mixin.client;
 
 import net.minecraft.client.render.entity.HorseEntityRenderer;
 import net.minecraft.entity.passive.HorseColor;
