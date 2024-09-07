@@ -21,14 +21,4 @@ changes in mechanics (while wearing netherite horse armor)
 
 <sub>Horse can now swim and ride in rafts
 
-<sub>_jeb nametag can be added to a horse, for colorful effects</sub>
-
-
-
-
-
-
-
-
-
-thanks to HorseBuff 1.21 and Elden Horses 1.18.**
+<sub>_jeb nametag can be added to a horse, for colorful effects
