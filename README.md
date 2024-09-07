@@ -3,14 +3,13 @@
 ## My first java project and minecraft mod (update of a mod from ages ago, with a few additions). 
 
 ### Get Netherite Horse Armor > Put armor on horse > Ride horse (to save horse for later use)
-
-Sneak or press keybind to unsummon mount.
-Press keybind to resummon.
+### Sneak or press keybind to unsummon mount.
+### Press keybind to resummon.
 
 
 changes in mechanics (while wearing netherite horse armor)
 
-No block break speed penalty while on horseback
+<sub>No block break speed penalty while on horseback
 
 Horse wont wander while saddled
 
@@ -22,7 +21,7 @@ Horse can now Double-jump
 
 Horse can now swim and ride in rafts
 
-_jeb nametag can be added to a horse, for colorful effects**
+_jeb nametag can be added to a horse, for colorful effects</sub>
 
 
 
