@@ -2,7 +2,7 @@
 
 ## My first java project and minecraft mod (update of a mod from ages ago, with a few additions). 
 
-###Get netherite horse armor > Put armor on horse > Ride horse (to save horse for later use)
+### Get netherite horse armor > Put armor on horse > Ride horse (to save horse for later use)
 
 Sneak or press keybind to unsummon mount.
 Press keybind to resummon.
