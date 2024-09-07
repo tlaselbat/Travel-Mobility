@@ -2,7 +2,7 @@
 
 ## My first java project and minecraft mod (update of a mod from ages ago, with a few additions). 
 
-### Get netherite horse armor > Put armor on horse > Ride horse (to save horse for later use)
+### Get Netherite Horse Armor > Put armor on horse > Ride horse (to save horse for later use)
 
 Sneak or press keybind to unsummon mount.
 Press keybind to resummon.
@@ -12,7 +12,7 @@ changes in mechanics (while wearing netherite horse armor)
 
 No block break speed penalty while on horseback
 
-Horses dont wander while saddled
+Horse wont wander while saddled
 
 Horse wont randomly buck, causing a random stop
 
