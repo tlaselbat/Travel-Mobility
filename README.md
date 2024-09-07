@@ -1,8 +1,8 @@
 # Tablet's mod XD
 
-my first java project , and minecraft mod (update of a mod from ages ago, with a few additions). 
+## My first java project and minecraft mod (update of a mod from ages ago, with a few additions). 
 
-**Get netherite horse armor > Put armor on horse > Ride horse (to save horse for later use)
+###Get netherite horse armor > Put armor on horse > Ride horse (to save horse for later use)
 
 Sneak or press keybind to unsummon mount.
 Press keybind to resummon.
@@ -22,7 +22,7 @@ Horse can now Double-jump
 
 Horse can now swim and ride in rafts
 
-_jeb nametag can be added to a horse, for colorful effects
+_jeb nametag can be added to a horse, for colorful effects**
 
 
 
