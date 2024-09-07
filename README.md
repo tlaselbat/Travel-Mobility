@@ -1,13 +1,16 @@
-# Tablet's mod XD
+# Tablet's mod 
 
 ## My first java project and minecraft mod (update of a mod from ages ago, with a few additions). 
 
-  Get Netherite Horse Armor > Put armor on horse > Ride horse (to save horse for later use)
-  Sneak or press keybind to unsummon mount.
-  Press keybind to resummon
+  ### ***Get Netherite Horse Armor > Put armor on horse > Ride horse (to save horse for later use)***
+  ### ***Sneak or press keybind to unsummon mount.***
+  ### ***Press keybind to resummon***
 
+###
+![Screenshot 2024-09-06 185920](https://github.com/user-attachments/assets/68092fd5-f847-4b12-8b3c-5c5186ff2a5a)
+###
 
-### Horse Abilities.
+##### Horse Abilities.
 
 *<sub>No block break speed penalty while on horseback*
 
